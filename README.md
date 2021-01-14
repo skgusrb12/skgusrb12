@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**skgusrb12/skgusrb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### 🔭 Career
 
 - Received the B.S. degrees, in Electronics Engineering from Gangneung-Wonju National University University, Seoul, Korea, in 2017.
