@@ -4,7 +4,7 @@
 
 Hello, My name is Hyeon Kyu Lee, I am a M.S./Ph.D. integrated course in Kwangwoon University.
 
-My major is biomedical engineering 
+My major is biomedical engineering such as human-machine interface, and I have a number of project experience using Python and Matlab. Recently, I have interested in Speech Recognition. So, I won a prize [AI grand challege](http://www.ai-challenge.kr/) held in Korea.
 
 ## Career
 
@@ -17,7 +17,8 @@ My major is biomedical engineering
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgusrb12@gmail.com)](mailto:skgusrb12@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeon-kyu-lee-b9907b172/]https://www.linkedin.com/in/hyeon-kyu-lee-b9907b172/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeon-kyu-lee-b9907b172)](https://www.linkedin.com/in/hyeon-kyu-lee-b9907b172)
+
 
 ## Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=skgusrb12&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
