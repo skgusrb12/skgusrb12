@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Hyeon Kyu Lee
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skgusrb12" alt="skgusrb12" /> </p>
+<p align="left"> <[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskgusrb12&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) /> </p>
 
 ## Career
 
@@ -8,8 +8,6 @@
 - M.S./Ph.D. integrated course, in Department of Electronic and Communications Engineering, Kwangwoon University, Seoul, Korea, in 2017 ~.
 
 ## Publication
-
-### 1. International Journal
 
 - `2019` Application of Continuous Wavelet Transform and Convolutional Neural Network in Decoding Motor Imagery Brain-Computer Interface, **Entropy** 
 
