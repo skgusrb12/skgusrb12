@@ -5,7 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+### 🔭 Career
+
+- Received the B.S. degrees, in Electronics Engineering from Gangneung-Wonju National University University, Seoul, Korea, in 2017.
+- M.S./Ph.D. integrated course, in Department of Electronic and Communications Engineering, Kwangwoon University, Seoul, Korea, in 2017 ~.
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
