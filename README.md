@@ -13,7 +13,8 @@ My major is biomedical engineering such as human-machine interface, and I have a
 
 ## Publication
 
-- `2019` Application of Continuous Wavelet Transform and Convolutional Neural Network in Decoding Motor Imagery Brain-Computer Interface, **Entropy** 
+- `2019` Application of Continuous Wavelet Transform and Convolutional Neural Network in Decoding Motor Imagery Brain-Computer Interface, **Entropy**
+- `2021` Enhancing SSVEP-Based Brain-Computer Interface with Two-Step Task-Related Component Analysis, **Sensors**
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgusrb12@gmail.com)](mailto:skgusrb12@gmail.com)
