@@ -22,13 +22,9 @@ My major is biomedical engineering such as human-machine interface, and I have a
 
 
 ## Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=skgusrb12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<a href="https://github.com/skgusrb12/skgusrb12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skgusrb12&hide=html,scss,cuda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=TIL" />
-</a>
-<a href="https://github.com/skgusrb12/skgusrb12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skgusrb12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="skgusrb12's GitHub Stats" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=skgusrb12&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=skgusrb12)
+![Github stats](https://github-readme-stats.vercel.app/api?username=skgusrb12&theme=buefy&show_icons=true&count_private=true)
 
 
 <!--
