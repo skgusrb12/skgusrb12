@@ -4,7 +4,7 @@
 
 Hello, My name is Hyeon Kyu Lee, I am a M.S./Ph.D. integrated course in Kwangwoon University.
 
-My major is biomedical engineering such as human-machine interface, and I have a number of project experience using Python and Matlab. Recently, I have interested in Speech Recognition. So, I won a prize [AI grand challege](http://www.ai-challenge.kr/) held in Korea.
+My major is biomedical engineering such as human-machine interface, and I have a number of project experience using Python and Matlab. Recently, I have interested in Automatic Speech Recognition (ASR). So, I won a prize [AI grand challege](http://www.ai-challenge.kr/) held in Korea.
 
 ## Career
 
@@ -15,6 +15,11 @@ My major is biomedical engineering such as human-machine interface, and I have a
 
 - `2019` Application of Continuous Wavelet Transform and Convolutional Neural Network in Decoding Motor Imagery Brain-Computer Interface, **Entropy**
 - `2021` Enhancing SSVEP-Based Brain-Computer Interface with Two-Step Task-Related Component Analysis, **Sensors**
+
+## International conference
+
+- `2018` A Convolution Neural Networks Scheme for Classification of Motor Imagery EEG based on Wavelet Time-Frequency Image, , **The 32nd International Conference on Information Networking (ICOIN 2018)**
+- `2021` Data-driven Data Augmentation for Motor Imagery Brain-Computer Interface, **The 35th International Conference on Information Networking (ICOIN 2021)**
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgusrb12@gmail.com)](mailto:skgusrb12@gmail.com)
