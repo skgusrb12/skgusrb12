@@ -4,12 +4,17 @@
 
 Hello, My name is Hyeon Kyu Lee, I am a M.S./Ph.D. integrated course in Kwangwoon University.
 
-My major is biomedical engineering such as human-machine interface, and I have a number of project experience using Python and Matlab. Recently, I have interested in Automatic Speech Recognition (ASR). So, I won a prize [AI grand challege](http://www.ai-challenge.kr/) held in Korea.
-
 ## Career
 
 - Received the B.S. degrees, in Electronics Engineering from Gangneung-Wonju National University University, Seoul, Korea, in 2017.
 - M.S./Ph.D. integrated course, in Department of Electronic and Communications Engineering, Kwangwoon University, Seoul, Korea, in 2017 ~.
+
+## Interest
+
+- Brain-Computer Interface (BCI)
+  - 
+- Automatic Speech Recognition (ASR)
+- AI conference and Journal Paper Reading
 
 ## Publication
 
