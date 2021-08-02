@@ -17,7 +17,7 @@ Hello, My name is Hyeon Kyu Lee, I am a M.S./Ph.D. integrated course in Kwangwoo
   - designing to new paradigm
 
 - Automatic Speech Recognition (ASR)
-  - speech Translation using deep learning
+  - speech translation using deep learning
   - lightweight approach in ASR model
 
 - AI conference and Journal Paper Reading
