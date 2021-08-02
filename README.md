@@ -12,8 +12,14 @@ Hello, My name is Hyeon Kyu Lee, I am a M.S./Ph.D. integrated course in Kwangwoo
 ## Interest
 
 - Brain-Computer Interface (BCI)
-  - 
+  - biomedical signal processing
+  - classification algorithms using deep learning
+  - designing to new paradigm
+
 - Automatic Speech Recognition (ASR)
+  - speech Translation using deep learning
+  - lightweight approach in ASR model
+
 - AI conference and Journal Paper Reading
 
 ## Publication
