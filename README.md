@@ -4,7 +4,7 @@
 
 Hello, My name is Hyeon Kyu Lee, I am a M.S./Ph.D. integrated course in Kwangwoon University.
 
-For more information, see the [here](https://github.com/skgusrb12/skgusrb12/CV_Hyeon Kyu.pdf).
+For more information, Click the [here](https://github.com/skgusrb12/skgusrb12).
 
 ## Career
 
