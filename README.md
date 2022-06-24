@@ -28,11 +28,14 @@ For more information, click the [here](https://github.com/skgusrb12/skgusrb12/bl
 
 - `2019` Application of Continuous Wavelet Transform and Convolutional Neural Network in Decoding Motor Imagery Brain-Computer Interface, **Entropy**
 - `2021` Enhancing SSVEP-Based Brain-Computer Interface with Two-Step Task-Related Component Analysis, **Sensors**
+- `2022` Regularized Task-Related Component Analysis for Robust SSVEP-based Brain-Computer Interface, **Electronic Letters**
 
 ## International conference
 
 - `2018` A Convolution Neural Networks Scheme for Classification of Motor Imagery EEG based on Wavelet Time-Frequency Image, , **The 32nd International Conference on Information Networking (ICOIN 2018)**
 - `2021` Data-driven Data Augmentation for Motor Imagery Brain-Computer Interface, **The 35th International Conference on Information Networking (ICOIN 2021)**
+- `2022` A Lightweight End-To-End Neural Networks for Decoding of Motor Imagery Brain Signal (Accepted), **13th International Conference on Ubiquitous and Future Networks (ICUFN 2022)**
+
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skgusrb12@gmail.com)](mailto:skgusrb12@gmail.com)
