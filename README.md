@@ -2,14 +2,14 @@ Hi, I am Hyeon Kyu Lee
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskgusrb12&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-Hello, My name is Hyeon Kyu Lee, I am a M.S./Ph.D. integrated course in Kwangwoon University.
+Hello, My name is Hyeon Kyu Lee, .
 
 For more information, click the [here](https://github.com/skgusrb12/skgusrb12/blob/main/CV_HK.pdf).
 
 ## Career
 
 - Received the B.S. degrees, in Electronics Engineering from Gangneung-Wonju National University University, Seoul, Korea, in 2017.
-- M.S./Ph.D. integrated course, in Department of Electronic and Communications Engineering, Kwangwoon University, Seoul, Korea, in 2017.03 ~ 2022.08
+- Received the Ph.D. degrees, in Department of Electronic and Communications Engineering, Kwangwoon University, Seoul, Korea, in 2017.03 ~ 2022.08
 
 ## Interest
 
