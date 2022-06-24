@@ -9,7 +9,7 @@ For more information, click the [here](https://github.com/skgusrb12/skgusrb12/bl
 ## Career
 
 - Received the B.S. degrees, in Electronics Engineering from Gangneung-Wonju National University University, Seoul, Korea, in 2017.
-- M.S./Ph.D. integrated course, in Department of Electronic and Communications Engineering, Kwangwoon University, Seoul, Korea, in 2017 ~.
+- M.S./Ph.D. integrated course, in Department of Electronic and Communications Engineering, Kwangwoon University, Seoul, Korea, in 2017.03 ~ 2022.08
 
 ## Interest
 
